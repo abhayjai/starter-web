@@ -11,6 +11,7 @@
     This is a simple web project, deployment can be on any web server or even  
     a local file system.
  ## HOW TO CONTRIBUTE
+ Please fork this repository and then issue pull the requests for review.
 
  ### Copyright
  2019 Abhay's Git Training 
