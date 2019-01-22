@@ -1,5 +1,5 @@
  # STARTER WEB PROJECT
-    This is a sample website project on how to use git and github together.
+    This is a sample website project on how to use git and github together. Adding a line for rebasing example.
 
  ## INTRODUCTION
    This example is to show different parts of the git repository
