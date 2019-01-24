@@ -15,4 +15,4 @@
  Please fork this repository and then issue pull the requests for review.
 
  ### Copyright
- 2019 Abhay's Git Training 
+ 2019 Abhay's Git Training . All Rights Reserveds
